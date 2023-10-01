@@ -1,5 +1,10 @@
 console.log(typeof "typeof") ; console.log(typeof null) ; console.log(typeof undefined)
-
-
-console.log("1. ECMA pr sab standards hai")
 console.log(" number => 2 to power 53  bigint string => boolean => true/false null => standalone value undefined => symbol => unique object")
+
+console.log("1. ECMA pr sab standards hai do check it https://tc39.es/ecma262/ ")
+console.log("2. same data type hi compare krna vrna unexpected results milege for example null compare with zero and you remember null convert kr k bhi aa jata hai from other data type  ")
+console.log("3. better to use ===")
+console.log("4. string interpolation jaise f python m vaise yaha `` hai jisme ${} use kr skte ho")
+console.log("5. spread out arrays to merge arra1 = [...aarr,...aa]")
+console.log("6 array.flat(infinity)")
+console.log("7 array.is , array.of, array.from")
